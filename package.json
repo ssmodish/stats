@@ -12,6 +12,7 @@
   "author": "Steve Smodish",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^17.0.34",
     "concurrently": "^7.2.0",
     "nodemon": "^2.0.16"
   }
